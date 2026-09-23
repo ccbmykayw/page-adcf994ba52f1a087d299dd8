@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5e0b9d2e22ea7ac42aff9db1",
+  "owner": "ccbmykayw",
+  "repo": "page-adcf994ba52f1a087d299dd8",
+  "title": "色色小站(Ayanami)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "adcf994ba52f1a087d299dd8",
+      "a": "色色小站(Ayanami)",
+      "b": "机场官网线路发布页",
+      "entity": "色色小站(Ayanami)",
+      "brand": "色色小站(Ayanami)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8ec7fdbdc6432e25ea2c2c71f32106b652ab0f5d46234b7958214889bb5db1a3",
+      "content": {
+        "primary_entity": "色色小站(Ayanami)",
+        "keyword1": "色色小站(Ayanami)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，专注提供高质量网络加速服务。平台采用智能路由与专线优化技术，覆盖流媒体解锁、游戏加速与跨境办公场景。提供基础版、旗舰版与团队版三档套餐，支持多设备同时在线，按年付费可享更优价格。",
+          "AI_HERO_SUBTITLE": "稳定加速，畅享全球网络",
+          "AI_HERO_INTRO": "色色小站(Ayanami)致力于为个人与团队用户提供可靠的网络加速服务。通过智能节点分配与专线优化，满足流媒体观看、游戏低延迟与跨境办公需求。三档套餐灵活适配不同流量与设备数量。",
+          "AI_VISUAL_TITLE": "色色小站加速服务",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "专线优化低延迟",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURES_INTRO": "从流量需求、设备数量与订阅周期出发，选择适合的加速方案。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TEXT_1": "基础版100GB满足轻度使用，旗舰版300GB适合多设备，团队版1000GB支持企业级流量。",
+          "AI_FEATURE_TITLE_2": "设备数量灵活",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版5台，团队版20台，覆盖手机、电脑与平板等多端场景。",
+          "AI_FEATURE_TITLE_3": "订阅周期优惠",
+          "AI_FEATURE_TEXT_3": "按月付费灵活，按年付费更划算：基础版¥150/年，旗舰版¥350/年，团队版¥850/年。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备类型选用合适的客户端，获得流畅的加速体验。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐覆盖不同流量与设备需求，按年付费享优惠价格。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "三步快速开始加速服务。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量与设备数量选择基础版、旗舰版或团队版套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与网络环境满足客户端运行条件。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "套餐流量用完后怎么办？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、旗舰版300GB、团队版1000GB流量。当月用尽后可等待下月重置，或升级至更高档位获取更多流量。",
+          "AI_FAQ_QUESTION_2": "支持哪些设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版5台，团队版20台。可在手机、电脑、平板等多种终端上使用，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "根据设备类型选择合适的客户端，参照对应客户端文档中的订阅导入步骤进行操作，通常复制订阅链接后粘贴即可完成配置。",
+          "AI_FAQ_QUESTION_4": "按年付费有什么优惠？",
+          "AI_FAQ_ANSWER_4": "按年付费比按月付费更划算：基础版¥150/年，旗舰版¥350/年，团队版¥850/年。相当于每月仅需¥12.5起。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些用户？",
+          "AI_FAQ_ANSWER_5": "团队版提供1000GB月流量与20台设备支持，适合小型团队、工作室或有企业定制路由需求的用户，并配备专属客户经理。",
+          "AI_CLOSING_TITLE": "开启加速体验",
+          "AI_CLOSING_TEXT": "选择适合的套餐，即刻享受稳定流畅的网络加速服务。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zddhgmc.cn",
+    "host": "zddhgmc.cn"
+  },
+  "file_hashes": {
+    "index.html": "f9f9ebc303ceb50164eddf705db9ce308d88a6b5562d70402f6b007fa25d2a60",
+    "sitemap.xml": "17bf58783ce5832c86058b85ba0a99f6df8eeecf4888c9c948ba62256fa62559",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "def5860f4515ac294f5b9c5657de2b8344537adc0d1c131ae94d7e5fe95bdca3",
+    "robots.txt": "dd69f17a446241c201b1192ba6b3ed9d0930a30af22cf7986f899a398af7ecb4",
+    "6feff9af8f24675334a1a3ef8bcea997.txt": "63f37a5cda6b138ca7c5a6998aa7fd2fca4f675ba72122ddb6fd58756f3543ae"
+  },
+  "revision": "fad5edbb4273a3ecf3847c860f342a941617b6625c9e64632a2aab7e00cd0649"
+}
